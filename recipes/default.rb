@@ -17,6 +17,6 @@ bash "install_meran" do
   code <<-EOH
     tar zxf #{File.basename(installer)}
     cd meranunlp
-    #./instalar.sh -i #{node[:meran][:instance_name]}
+    ./instalar.sh -i #{node[:meran][:instance_name]}
   EOH
 end
