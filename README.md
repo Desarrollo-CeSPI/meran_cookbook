@@ -24,7 +24,7 @@ git clone https://github.com/Desarrollo-CeSPI/meran_cookbook.git
 
 * Iniciar la máquina virtual
 ```
-cd choique_cookbook
+cd meran_cookbook
 vagrant up
 ```
 
