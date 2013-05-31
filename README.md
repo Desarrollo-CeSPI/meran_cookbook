@@ -9,10 +9,11 @@ Para probar el producto en forma rápida, sugerimos:
 * Instalar "Vagrant":http://www.vagrantup.com/ siguiendo las instrucciones del
   producto
 
-* Instalar el plugin de Berkshelf 
+* Instalar el plugin de Berkshelf  y el plugin omnibus
 
 ```
 vagrant plugin install vagrant-berkshelf
+vagrant plugin install vagrant-omnibus
 ```
 
 * Clonar este repo
