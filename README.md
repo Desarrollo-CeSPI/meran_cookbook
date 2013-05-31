@@ -31,7 +31,7 @@ vagrant up
 
   * Acceder al catalogo publico: http://33.33.33.11
   * Acceder al backend de administracion: https://33.33.33.11
-    * El usuario y contraseña por defecto es: `admin`
+    * El usuario y contraseña por defecto es: `meranadmin` y `meranadmin123`
 
 >La dirección ip puede cambiarse editando Vagrantfile
 
