@@ -37,6 +37,9 @@ vagrant up
 >La dirección ip puede cambiarse editando Vagrantfile
 
 Se provee además un ejemplo de Vagrantfile para utilizar meran en Amazon EC2
+* La AMI seleccionada corresponde a un Debian 6, pero no funcionará
+  automáticamente. Se debe instalar el paquete rsync en dicha ami para que
+funcione vagrant
 
 # Requerimientos
 
