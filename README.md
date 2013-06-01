@@ -51,7 +51,7 @@ Este cookbook utiliza, y por tanto depende de los siguientes cookbooks:
 
 Solo tiene una receta: `default` que hace todo
 
-# Attributos
+# Atributos
 
 Los atributos a cambiar son:
 
@@ -59,6 +59,6 @@ Los atributos a cambiar son:
 default[:meran][:instance_name] = "vagrant"
 default[:meran][:version] = "meranunlp-v0.9.4-desatendido.tar.gz"
 ```
-# Author
+# Autor
 
 Author:: Christian A. Rodriguez(<car@cespi.unlp.edu.ar>)
